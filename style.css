@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.container{
+    align-items: center;
+    text-align: center;
+    display: flex;
+    font-family: Poppins;
+}
+.one{
+    margin: auto;
+    border-radius: 20px;
+    background: rgb(0,212,255);
+    background: linear-gradient(90deg, rgba(0,212,255,1) 40%, rgba(0,212,255,0.3477766106442577) 98%);
+}
+.textOne{
+    background-color: #FFF;
+}
+.textOne #cuatro{
+    width: 80px;
+    height: 30px;
+}
+.textOne #bu{
+    background-color: rgb(0,212,255);
+}
+.one #image1{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.two{
+    margin: auto;
+    border-radius: 20px;
+    background: rgb(255,0,185);
+    background: linear-gradient(90deg, rgba(255,0,185,1) 40%, rgba(255,0,185,0.4458158263305322) 98%);
+}
+.textTwo{
+    background-color: #FFF;
+}
+.textTwo #tres{
+    width: 80px;
+    height: 30px;
+}
+.textTwo #bu{
+    background-color: rgb(255,0,185);
+}
+.two #image2{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.three{
+    margin: auto;
+    border-radius: 20px;
+    background: rgb(255,149,0);
+    background: linear-gradient(90deg, rgba(255,149,0,1) 40%, rgba(255,149,0,0.4458158263305322) 98%);
+}
+.textThree{
+    background-color: #FFF;
+}
+.textThree #cinco{
+    width: 80px;
+    height: 30px;
+}
+.textThree #bu{
+    background-color: rgb(255,149,0);
+}
+.three #image3{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
